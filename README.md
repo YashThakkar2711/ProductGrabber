@@ -9,15 +9,7 @@ This Apllication basically compares products of different E-commerce website wit
 Environment    :  Python 3.7
 
 
-Dependencies   :  1.Tkinter 
-
-                  2.Beautiful Soup 
-                  
-                  3.Requests 
-                  
-                  4.Webbrowser
-                  
-                  5.Tabulate
+Dependencies   :  1.Tkinter  2.Beautiful Soup  3.Requests  4.Webbrowser  5.Tabulate
                   
 How to Run Code : masterproject.py
 
