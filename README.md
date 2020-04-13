@@ -16,6 +16,7 @@ How to Run Code : masterproject.py
 ## Major/Minor Areas of Specifications :
 
 Major : Web Client Programming and Scrapping HTML pages/ Websites. 
+
 Minor : Advanced Graphical User Interface, Regular expression. 
 Polite Access: not visit the sites frequently. 
 Slightly involved: Analysis of HTML codes.
